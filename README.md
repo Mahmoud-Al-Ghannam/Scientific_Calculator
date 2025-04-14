@@ -1,2 +1,3 @@
 # Scientific_Calculator
-The project is calculator that it can compute the expression with operations -,+,/ * , brackets () and also can compute many functions like sin, cos, exp, ... etc.
+
+This project is WinForms application and it is a scientific calculator that can calculate expressions with the four arithmetic operations (-,+,/,*) and brackets (), as well as with many functions such as sin, cos, exp ... etc.
