@@ -1,0 +1,25 @@
+F:\C#\Numerical Systems\bin\Debug\Numerical Systems.exe.config
+F:\C#\Numerical Systems\bin\Debug\Numerical Systems.exe
+F:\C#\Numerical Systems\bin\Debug\Numerical Systems.pdb
+F:\C#\Numerical Systems\obj\Debug\Computing Tool.csproj.AssemblyReference.cache
+F:\C#\Numerical Systems\obj\Debug\Numerical_Systems.MainForm.resources
+F:\C#\Numerical Systems\obj\Debug\Numerical_Systems.NumericalSystemsMainForm.resources
+F:\C#\Numerical Systems\obj\Debug\Numerical_Systems.Properties.Resources.resources
+F:\C#\Numerical Systems\obj\Debug\Computing Tool.csproj.GenerateResource.cache
+F:\C#\Numerical Systems\obj\Debug\Computing Tool.csproj.CoreCompileInputs.cache
+F:\C#\Numerical Systems\obj\Debug\Numerical Systems.exe
+F:\C#\Numerical Systems\obj\Debug\Numerical Systems.pdb
+F:\C#\Numerical Systems\obj\Debug\Numerical_Systems.CalculatorForm.resources
+F:\C#\Computing Tools\obj\Debug\Computing Tool.csproj.AssemblyReference.cache
+F:\C#\Computing Tools\obj\Debug\Numerical_Systems.CalculatorForm.resources
+F:\C#\Computing Tools\obj\Debug\Numerical_Systems.MainForm.resources
+F:\C#\Computing Tools\obj\Debug\Numerical_Systems.NumericalSystemsMainForm.resources
+F:\C#\Computing Tools\obj\Debug\Numerical_Systems.Properties.Resources.resources
+F:\C#\Computing Tools\obj\Debug\Computing Tool.csproj.GenerateResource.cache
+F:\C#\Computing Tools\obj\Debug\Computing Tool.csproj.CoreCompileInputs.cache
+F:\C#\Computing Tools\obj\Debug\Numerical Systems.exe
+F:\C#\Computing Tools\obj\Debug\Numerical Systems.pdb
+F:\C#\Computing Tools\bin\Debug\Numerical Systems.exe.config
+F:\C#\Computing Tools\bin\Debug\Numerical Systems.exe
+F:\C#\Computing Tools\bin\Debug\Numerical Systems.pdb
+F:\C#\Computing Tools\obj\Debug\Numerical_Systems.BitManipulationForm.resources
